@@ -4,4 +4,4 @@ If you want to put **more than 5 likes** to your favourite media – *Reminder*,
 
 Download chromedriver here: https://chromedriver.chromium.org/downloads
 
-If you have some problem with the chromedriver, update to the latest version of Сhrome and chromedriver.
+If you have some problem with the chromedriver, update Сhrome and chromedriver to the latest version.
