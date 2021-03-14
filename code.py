@@ -21,6 +21,7 @@ for i in range(int(likes / 5)):
     check()
     for i in range(5):
         driver.find_element_by_class_name('_inner_8b2d8').click()
+    time.sleep(1)
     driver.close()
     time.sleep(1)
 
@@ -33,4 +34,5 @@ element.location_once_scrolled_into_view
 check()
 for i in range(likes % 5):
     driver.find_element_by_class_name('_inner_8b2d8').click()
+time.sleep(1)
 driver.close()
